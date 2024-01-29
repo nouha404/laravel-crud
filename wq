@@ -1,0 +1,45 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6304
+    [34mall[39m: [
+      [34;4mApp\Models\Article[39;24m {#6305
+        [34mid[39m: [35m12[39m,
+        [34mtitle[39m: "[32mUn premier article[39m",
+        [34memail[39m: "[32maboubacar.marega@ism.edu.sn[39m",
+        [34mdescription[39m: "[32mDescription de l'article numero 1[39m",
+        [34misPublish[39m: [35m0[39m,
+        [34mcreated_at[39m: "[32m2023-11-26 09:48:10[39m",
+        [34mupdated_at[39m: "[32m2023-11-26 09:48:10[39m",
+        [34mdeleted_at[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#6306
+        [34mid[39m: [35m13[39m,
+        [34mtitle[39m: "[32mUn deuxieme article[39m",
+        [34memail[39m: "[32maboubacar.marega@ism.edu.sn[39m",
+        [34mdescription[39m: "[32mDescription de l'article numero 2[39m",
+        [34misPublish[39m: [35m0[39m,
+        [34mcreated_at[39m: "[32m2023-11-26 09:48:25[39m",
+        [34mupdated_at[39m: "[32m2023-11-26 09:48:25[39m",
+        [34mdeleted_at[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#6307
+        [34mid[39m: [35m14[39m,
+        [34mtitle[39m: "[32mUn troisieme article[39m",
+        [34memail[39m: "[32maboubacar.marega@ism.edu.sn[39m",
+        [34mdescription[39m: "[32mDescription de l'article numero 3[39m",
+        [34misPublish[39m: [35m0[39m,
+        [34mcreated_at[39m: "[32m2023-11-26 09:48:46[39m",
+        [34mupdated_at[39m: "[32m2023-11-26 09:48:46[39m",
+        [34mdeleted_at[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#6308
+        [34mid[39m: [35m15[39m,
+        [34mtitle[39m: "[32mUn quatrieme article[39m",
+        [34memail[39m: "[32maboubacar.marega@ism.edu.sn[39m",
+        [34mdescription[39m: "[32mDescription de l'article numero 4[39m",
+        [34misPublish[39m: [35m0[39m,
+        [34mcreated_at[39m: "[32m2023-11-26 09:49:01[39m",
+        [34mupdated_at[39m: "[32m2023-11-26 09:49:01[39m",
+        [34mdeleted_at[39m: [36mnull[39m,
+      },
+    ],
+  }
+
